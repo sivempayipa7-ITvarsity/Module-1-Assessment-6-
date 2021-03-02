@@ -1,0 +1,38 @@
+a{
+    color: green;
+    font-family: sans-serif;
+    background-color: aquamarine;
+    text-decoration: underline;
+}
+img{
+    width: 300px;
+    min-height: 200px;
+    resize: horizontal;
+}
+a{
+    font-family: fantasy;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 7px;
+}
+a:hover{
+    background-color: aqua;
+    color: firebrick;
+}
+ul{
+    list-style-image: inherit;
+}
+#menu-bar a:hover{
+    background-color: aqua;
+}
+#menu{
+    width: 20px;
+    height: 10px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+#menu a:hover{
+    color: #ffffff;
+    font-family: helvetica, sans-serif;
+    font-size: 10px;
+}
